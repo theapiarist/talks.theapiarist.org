@@ -1,1 +1,1 @@
-# talks.theapiarist.org - repository
+# talks.theapiarist.org
