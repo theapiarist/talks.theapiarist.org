@@ -6,7 +6,7 @@ header_menu: true
 
 These are synopses of the talks that I currently offer. 
 
-There is a trade-off between the breadth of coverage of a topic and the amount of detail I can reasonably include. For example, a talk on *Preparing for Winter* will inevitably contain much less detail on why the timing of *Varroa* control is so critical than my talk on *Rational Varroa control*, because I also have to discuss woodpeckers, feeding and hefting the hive *etc.*. If you want to know why it's not possible to schedule your *Varroa* treatments using the calendar you need the detailed talk.
+There is a trade-off between the breadth of coverage of a topic and the amount of detail I can reasonably include. For example, a talk on *Preparing for Winter* will inevitably contain much less detail on why the timing of *Varroa* control is so critical than my talk on *Rational Varroa control*, because I also have to discuss woodpeckers, feeding and hefting the hive *etc.* If you want to know why it's not possible to schedule your *Varroa* treatments using the calendar you need the detailed talk.
 
 In my experience talks are best appreciated when they 'fit' with the expectations of the audience and the beekeeping season - for example, talks on *Varroa* control in autumn, talks on DIY in winter and talks on bait hives or queen rearing in early spring.
 
