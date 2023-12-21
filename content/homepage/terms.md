@@ -37,4 +37,4 @@ Since some association members may not be able to attend 'on the night' I am hap
 
 ### Invoices
 
-I will invoice you after the talk. Payment by BACS only. 
+I will invoice you following the talk. Payment by BACS only. 
