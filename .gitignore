@@ -1,3 +1,4 @@
 .DS_Store
 new-talks.code-workspace
 deploy.sh
+.hugo_build.lock
