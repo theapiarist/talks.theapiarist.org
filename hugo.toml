@@ -26,7 +26,7 @@ title = "Beekeeping talks by David Evans (The Apiarist)"
     # services like Twitter or Slack want to generate a preview of a link to your site.
     # See https://gohugo.io/templates/internal#twitter-cards and
     # https://gohugo.io/templates/internal#open-graph.
-    images = ["images/BroodFrame.jpg"]
+    images = ["images/230509-03.webp"]
 
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
