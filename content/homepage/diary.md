@@ -35,7 +35,7 @@ Week beginning:
 * _Happy Christmas_
 * 06/01/2025 - provisionally booked
 * 13/01/2025 - booked
-* 20/01/2025 -
+* 20/01/2025 - booked
 * 27/01/2025 - booked
 * 03/02/2025 - booked
 * 10/02/2025 -
