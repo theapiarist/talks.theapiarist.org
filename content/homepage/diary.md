@@ -16,24 +16,24 @@ I am already fully booked for Spring 2024, *thank you*.
 
 Week beginning:
 
-* 02/09/2024 - booked
+* 02/09/2024 - unavailable
 * 09/09/2024 - booked
-* 16/09/2024 - booked
-* 23/09/2024 - booked
-* 30/09/2024 - unavailable
+* 16/09/2024 - unavailable
+* 23/09/2024 - unavailable
+* 30/09/2024 - provisionally booked
 * 07/10/2024 - booked
 * 14/10/2024 - booked
-* 21/10/2024 - unavailable
-* 28/10/2024 - unavailable
+* 21/10/2024 - provisionally booked
+* 28/10/2024 - provisionally booked
 * 04/11/2024 - booked
 * 11/11/2024 - booked
 * 18/11/2024 - booked
-* 25/11/2024 - unavailable
+* 25/11/2024 - provisionally booked
 * 02/12/2024 - provisionally booked
-* 09/12/2024 - unavailable
+* 09/12/2024 - provisionally booked
 * 16/12/2024 - unavailable
 * _Happy Christmas_
-* 06/01/2025 - provisionally booked
+* 06/01/2025 - unavailable
 * 13/01/2025 - booked
 * 20/01/2025 - booked
 * 27/01/2025 - booked
@@ -42,6 +42,6 @@ Week beginning:
 * 17/02/2025 - booked
 * 24/02/2025 - booked
 * 03/03/2025 - provisionally booked
-* 10/03/2025 -
+* 10/03/2025 - booked
 * 17/03/2025 - booked
 * 24/03/2025 - provisionally booked
