@@ -38,7 +38,7 @@ Week beginning:
 * 20/01/2025 - booked
 * 27/01/2025 - booked
 * 03/02/2025 - booked
-* 10/02/2025 -
+* 10/02/2025 - booked
 * 17/02/2025 - booked
 * 24/02/2025 - booked
 * 03/03/2025 - provisionally booked
