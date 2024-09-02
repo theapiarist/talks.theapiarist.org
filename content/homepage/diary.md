@@ -29,7 +29,7 @@ Week beginning:
 * 11/11/2024 - booked
 * 18/11/2024 - booked
 * 25/11/2024 - provisionally booked
-* 02/12/2024 - provisionally booked
+* 02/12/2024 - booked
 * 09/12/2024 - provisionally booked
 * 16/12/2024 - unavailable
 * _Happy Christmas_
