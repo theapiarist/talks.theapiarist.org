@@ -24,7 +24,7 @@ Week beginning:
 * 07/10/2024 - booked
 * 14/10/2024 - booked
 * 21/10/2024 - 
-* 28/10/2024 - 
+* 28/10/2024 - booked
 * 04/11/2024 - booked
 * 11/11/2024 - booked
 * 18/11/2024 - booked
